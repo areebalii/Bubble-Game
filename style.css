@@ -103,6 +103,9 @@ main {
       padding: 15px;
       gap: 11px;
     }
+    .elem{
+      gap: 0;
+    }
 }
 
 
