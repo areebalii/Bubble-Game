@@ -103,7 +103,7 @@ main {
       padding: 0;
       gap: 0;
       font-size: 15px;
-      justify-content: space-around;
+      justify-content: flex-start;
     }
     .elem{
       width: 100px;
