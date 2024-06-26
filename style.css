@@ -100,7 +100,7 @@ main {
     }
     .pTop{
       width: 100%;
-      padding: 15px;
+      padding: 0;
       gap: 11px;
     }
     .elem{
