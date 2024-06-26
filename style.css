@@ -102,7 +102,7 @@ main {
       width: 100%;
       padding: 0;
       gap: 11px;
-      justify-content: space-evenly;
+      justify-content: start;
     }
     .elem{
       gap: 0;
