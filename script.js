@@ -31,7 +31,7 @@ function getNewHit() {
     hitEl.innerText = hitRn
 }
 function increaseScore() {
-    score += 5
+    score += 1
     scoreEl.innerText = score
 }
 pBottom.addEventListener('click', (e) => {
